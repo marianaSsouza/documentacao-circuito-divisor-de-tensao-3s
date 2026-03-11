@@ -181,6 +181,9 @@ organização dos elementos na superfície
 
 Todas as trilhas foram desenhadas na camada inferior da placa (Bottom Layer), conforme especificado.
 
+- PCB Layout:
+  
+
 3 -> Visualização 3D
 
 A visualização 3D permite observar como será o circuito após a montagem física.
@@ -194,9 +197,9 @@ orientação correta de conectores
 aparência final da placa
 
 - parte superior:
+ <img width="1027" height="633" alt="image" src="https://github.com/user-attachments/assets/6c86dcc8-d6fb-4cdb-9ea3-36d45ca06994" />
+ 
   
-  
-
 - parte inferior:
 
 <img width="978" height="514" alt="image" src="https://github.com/user-attachments/assets/852cc1d4-d055-4d93-8222-d002722d1e4f" />
