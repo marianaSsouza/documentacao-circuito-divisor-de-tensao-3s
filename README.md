@@ -165,6 +165,10 @@ a lógica de funcionamento do circuito
 
 Também é possível realizar simulações para verificar se o circuito entrega corretamente a tensão esperada.
 
+- esquematico: 
+<img width="1159" height="307" alt="image" src="https://github.com/user-attachments/assets/214402cc-ca05-4a13-92a0-3ef7f769f2a4" />
+
+
 2 -> Layout da PCB (ARES)
 
 O layout da PCB representa o desenho físico da placa de circuito impresso.
