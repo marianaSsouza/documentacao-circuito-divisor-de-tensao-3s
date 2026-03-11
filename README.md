@@ -192,3 +192,12 @@ espaçamento entre componentes
 orientação correta de conectores
 
 aparência final da placa
+
+- parte superior:
+  
+  
+
+- parte inferior:
+
+<img width="978" height="514" alt="image" src="https://github.com/user-attachments/assets/852cc1d4-d055-4d93-8222-d002722d1e4f" />
+
