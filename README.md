@@ -182,6 +182,8 @@ organização dos elementos na superfície
 Todas as trilhas foram desenhadas na camada inferior da placa (Bottom Layer), conforme especificado.
 
 - PCB Layout:
+  <img width="1226" height="649" alt="image" src="https://github.com/user-attachments/assets/468f5e70-38ab-4156-b297-4ddd34ef313a" />
+
   
 
 3 -> Visualização 3D
